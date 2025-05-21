@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @4ennyx
+/src/backend/database.py      @4ennyx
+/src/backend/routers/auth.py  @4ennyx
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @4ennyx
